@@ -1,4 +1,6 @@
-# Frontend Mentor - Dsign Landing Intro Challenge
+# Frontend Mentor - DSIGN Landing Intro Challenge
+
+![Design for the DSIGN Landing Intro Challenge](./design/dsign-header-intro.jpg)
 
 Welcome! Thanks for checking out this front-end coding challenge. 
 
