@@ -1,6 +1,8 @@
 # Frontend Mentor - DSIGN Landing Intro Challenge
 
-![Design for the DSIGN Landing Intro Challenge](./design/dsign-header-intro.jpg)
+![Design by Mubin ul haq Vhora for the DSIGN Landing Intro Challenge](./design/dsign-header-intro.jpg)
+
+Design by: [Mubin ul haq Vhora](http://mubinulhaq.com/)
 
 Welcome! Thanks for checking out this front-end coding challenge. 
 
